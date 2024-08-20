@@ -22,7 +22,7 @@ correct_guesses = []
 
 while not game_over:
 
-    print(f"****************************<???>/{lives} LIVES LEFT****************************")
+    print(f"**************************** {lives} LIVES LEFT****************************")
 
     user_guess = input("Guess a letter: ").lower()
 
