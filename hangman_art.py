@@ -68,4 +68,3 @@ logo = r'''
 
 
 
-print(stages)
